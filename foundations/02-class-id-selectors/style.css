@@ -1,0 +1,15 @@
+.sub {
+    background-color: #eb7272;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#element {
+    color: #1c1ce9;
+    font-size: 36px;
+}
+.sub.two {
+    font-size: 24px;
+}
+#num4 {
+    background-color: #a4f3a4;
+    font-weight: bold;
+}
